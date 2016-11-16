@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479174873 source:e:\asistensi\daa\linkedlist2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<malloc.h>
+	<stdio.h>
+
